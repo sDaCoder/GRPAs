@@ -1,0 +1,6 @@
+The GNU operating system is a complete free software system, upward-compatible with Unix.
+GNU stands for GNU's Not Unix.
+It is pronounced as one syllable with a hard g.
+Richard Stallman made the Initial Announcement of the GNU Project in September 1983.
+A longer version called the GNU Manifesto was published in March 1985.
+It has been translated into several other languages.
