@@ -1,0 +1,1 @@
+ls -l *.txt > textFiles.txt 2> noFiles.txt; [ ! -s noFiles.txt ] && echo 'found'
