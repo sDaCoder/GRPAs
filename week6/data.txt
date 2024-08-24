@@ -1,0 +1,13 @@
+total 56
+-rwxr--r-- 1 suprava_dutta suprava_dutta  871 Jul  3 17:14 GRPA1.sh
+-rwxr--r-- 1 suprava_dutta suprava_dutta  141 Jul  3 19:46 GRPA2.sh
+-rwxr--r-- 1 suprava_dutta suprava_dutta   91 Jul  3 19:20 GRPA3.sh
+-rwxr-xr-x 1 suprava_dutta suprava_dutta   78 Aug 22 17:57 PPA1.sh
+-rwxr-xr-x 1 suprava_dutta suprava_dutta  122 Aug 22 18:53 PPA2.sh
+-rw-r--r-- 1 suprava_dutta suprava_dutta  558 Aug 22 17:59 Pincode_info.csv
+drwx-wxrwx 2 suprava_dutta suprava_dutta 4096 Aug 22 17:23 a
+drw--wx--x 2 suprava_dutta suprava_dutta 4096 Aug 22 17:23 b
+drwx-wxrwx 2 suprava_dutta suprava_dutta 4096 Aug 22 17:23 c
+drw--wx--x 2 suprava_dutta suprava_dutta 4096 Aug 22 17:23 d
+drwx-wxrwx 2 suprava_dutta suprava_dutta 4096 Aug 22 17:23 e
+-rw-r--r-- 1 suprava_dutta suprava_dutta  145 Jul  3 19:47 employees.csv

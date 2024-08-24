@@ -1,0 +1,1 @@
+cat myauth.log | grep 'New session' | awk '{print $NF}' | tr -d '.' | sort | uniq

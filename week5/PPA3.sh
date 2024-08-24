@@ -1,0 +1,1 @@
+cat myauth.log | grep 'FAILED LOGIN' | wc --lines

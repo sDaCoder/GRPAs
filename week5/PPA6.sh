@@ -1,0 +1,1 @@
+cat myauth.log | grep '\bLOGIN\b' | grep '\bguest\b' | grep '^\b...\b \b[1-3][0-9]\b \b[0-2][0-3]:[0-5][0-9]:[0-5][0-9]\b' -o | tail -1

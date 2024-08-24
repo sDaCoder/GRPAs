@@ -1,0 +1,1 @@
+ls -l | tail +2 | awk '{print $1, $9}' | grep '^d......rwx' | awk '{print $2}'
